@@ -11,4 +11,4 @@ Pig-game(ludo) has is a classic board game played between friends and family. Pl
 - The first player to reach 100 points on GLOBAL score wins the game.
 
 
-Checkout our [Demo](devmuzaky.github.io/Pig-Game--JS/)
+Checkout our [Demo](https://devmuzaky.github.io/Pig-Game--JS/)
